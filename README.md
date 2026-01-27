@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Jeremy, (BigMushFrog23)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=CS+Student+@+H3+Hitema;Future+C%2B%2B+Architect;Crafting+worlds+with+Godot;Interested+in+Game+Engines+and+Game+Programming.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=400&color=7AA2F7&center=true&vCenter=true&width=600&lines=CS+Student+@+H3+Hitema;Future+C%2B%2B+Architect;Godot+Enjoyer;Game+Engines+and+Programming)
 
 **Computer Science Student at H3 Hitema** *Turning thoughts into code, and logic into playable games.*
 
