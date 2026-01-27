@@ -1,0 +1,19 @@
+name: GitHub Readme Stats
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Updates every 12 hours
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          github_token: ${{ secrets.GH_PAYLOAD_TOKEN }}
+          username: BigMushFrog23
+          output: stats.svg # This saves the image to your repo
+          theme: tokyonight
+          include_all_commits: true
+          count_private: true
