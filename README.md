@@ -6,7 +6,7 @@
 
 **Computer Science Student at H3 Hitema** *Turning thoughts into code, and logic into playable games.*
 
-[📂 Portfolio](https://your-portfolio-link.com) • [💼 LinkedIn](https://linkedin.com/in/jeremy-popov-00ba89333) • [✉️ Email](mailto:popov.jeremy.v@gmail.com)
+[💼 LinkedIn](https://linkedin.com/in/jeremy-popov-00ba89333) • [✉️ Email](mailto:popov.jeremy.v@gmail.com)
 
 <br/>
 
