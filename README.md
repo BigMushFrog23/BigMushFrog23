@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # 👋 Hi, I'm Jeremy (BigMushFrog23)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=600&color=7AA2F7&center=true&vCenter=true&width=600&lines=CS+Student+@+H3+Hitema;Future+C%2B%2B+Architect;Godot+Enjoyer;Game+Engines+and+Programming" />
@@ -34,12 +34,8 @@
 ### 📊 Performance & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BigMushFrog23&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&bg_color=00000000" height="175" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BigMushFrog23&theme=tokyonight&hide_border=false&count_private=true&background=00000000&v=3" height="175" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigMushFrog23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" width="400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BigMushFrog23&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&bg_color=00000000" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigMushFrog23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" height="190" />
 </p>
 
 </div>
