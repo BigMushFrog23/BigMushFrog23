@@ -1,19 +1,31 @@
-name: GitHub Readme Stats
+name: Update GitHub Stats
 on:
   schedule:
-    - cron: '0 */12 * * *' # Updates every 12 hours
-  workflow_dispatch: # Allows you to run it manually
+    - cron: '0 */12 * * *' # Every 12 hours
+  workflow_dispatch: # Allows manual run
 
 jobs:
-  stats:
+  build:
     runs-on: ubuntu-latest
+    name: generate-stats
     steps:
-      - name: Generate Stats
-        uses: anuraghazra/github-readme-stats@master
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      - name: Generate SVG
+        uses: platane/snk@v3
         with:
-          github_token: ${{ secrets.GH_PAYLOAD_TOKEN }}
-          username: BigMushFrog23
-          output: stats.svg # This saves the image to your repo
-          theme: tokyonight
-          include_all_commits: true
-          count_private: true
+          github_user_name: BigMushFrog23
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAYLOAD_TOKEN }}
+
+      - name: Push to Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAYLOAD_TOKEN }}
