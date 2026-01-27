@@ -34,8 +34,8 @@
 ### 📊 Performance & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BigMushFrog23&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&bg_color=00000000" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigMushFrog23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" height="190" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BigMushFrog23&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&bg_color=00000000" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigMushFrog23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" height="200" />
 </p>
 
 </div>
