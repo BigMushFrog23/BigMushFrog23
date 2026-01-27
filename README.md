@@ -35,7 +35,7 @@
 
 ### 📊 Performance & Activity
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BigMushFrog23&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&bg_color=00000000" height="170" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=BigMushFrog23&theme=tokyonight&hide_border=false&count_private=true&bg_color=00000000" height="170" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BigMushFrog23&theme=tokyonight&hide_border=false&count_private=true&background=00000000)
 
 <br/>
 
